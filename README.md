@@ -11,4 +11,4 @@ which extends the abstract Vehicle class. The Car class contains the following:
 * the equals method
 * a copy method
 
-![My Image is][index.jpg]
+![My Image is](index.jpg)
