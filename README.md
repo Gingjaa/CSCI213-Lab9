@@ -1,6 +1,6 @@
 # CSCI 213 Lab 10: Working with Git
 
-_Author_: Matthew Archer
+*Author*: Matthew Archer
 This is the Git lab for CSCI 213 Software Development. One class was added, Car.java,
 which extends the abstract Vehicle class. The Car class contains the following:
 
@@ -11,4 +11,4 @@ which extends the abstract Vehicle class. The Car class contains the following:
 * the equals method
 * a copy method
 
-!{My Image is}{index.jpg}
+![My Image is][index.jpg]
